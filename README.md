@@ -11,9 +11,8 @@ The pin connection to the GC9A01 SPI IPS LCD display is in the sketch code @Line
 
 
 # TODO
-[x] Display time
-[x] Play voice recoding at the specific time
-[ ] Improve the UI
-[ ] Use NTP to retrieve network time
-[ ] Implement Google Text-to-Speech 
-
+- [x] Display time
+- [x] Play voice recoding at the specific time
+- [ ] Improve the UI
+- [ ] Use NTP to retrieve network time
+- [ ] Implement Google Text-to-Speech 
